@@ -8,7 +8,7 @@ Bu Flutter uygulaması, bir sushi restoranının temel özelliklerini içerir: a
 2. [Ekran Görüntüleri](#ekran-görüntüleri)
 3. [Nasıl Çalıştırılır](#nasıl-çalıştırılır)
 4. [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
-5. [Katkıda Bulunmak (Katılım)](#kat-contributing)
+5. [Katkıda Bulunmak (Katılım)](#katkıda-bulunmak)
 
 ## Proje Açıklaması
 
